@@ -1,0 +1,61 @@
+/* Al Fresco
+==================================== */
+
+@font-face {
+    font-family: 'Al Fresco';
+    src: url('AlFresco-Bold.eot');
+    src: local('Al Fresco Bold'), local('AlFresco-Bold'),
+        url('AlFresco-Bold.eot?#iefix') format('embedded-opentype'),
+        url('AlFresco-Bold.woff2') format('woff2'),
+        url('AlFresco-Bold.woff') format('woff'),
+        url('AlFresco-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Al Fresco';
+    src: url('AlFresco.eot');
+    src: local('Al Fresco'), local('AlFresco'),
+        url('AlFresco.eot?#iefix') format('embedded-opentype'),
+        url('AlFresco.woff2') format('woff2'),
+        url('AlFresco.woff') format('woff'),
+        url('AlFresco.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/* Acumin Pro
+==================================== */
+
+@font-face {
+    font-family: 'Acumin Pro';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Acumin Pro'), url('Acumin-RPro.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Acumin Pro Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Acumin Pro Italic'), url('Acumin-ItPro.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Acumin Pro Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Acumin Pro Bold'), url('Acumin-BdPro.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Acumin Pro Bold Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Acumin Pro Bold Italic'), url('Acumin-BdItPro.woff') format('woff');
+    }
